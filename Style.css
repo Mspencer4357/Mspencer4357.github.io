@@ -1,0 +1,12 @@
+body{
+  background-color: sky blue;
+ }
+  h1{
+    color: black;
+    text-align: center;
+  }
+  p{
+    font-family:Verdan,Geneva, san-serif;
+    font-size: 18 px;
+    color: gray;
+  }
